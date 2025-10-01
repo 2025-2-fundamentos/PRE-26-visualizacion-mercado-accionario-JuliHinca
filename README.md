@@ -20,7 +20,7 @@ setup
 
 # Ejecución de pruebas
 
-Ejecute el siguiente comando en el terminal:
+Ejecute el siguiente coma  ndo en el terminal:
 
 ```bash
 pytest
